@@ -1,7 +1,7 @@
 package in.hopscotch.solid.srp;
 
 
-public class Employee {
+class Employee {
 	
 	private String name;
 	private int age;
